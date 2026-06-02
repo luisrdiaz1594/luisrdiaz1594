@@ -7,7 +7,7 @@ Currently applying my technical and organizational skills as a Project Manager a
 
 ## 👨‍💻 Projects
 
-Coming soon.
+Project 1 - [SOC Automation Home Lab](https://github.com/luisrdiaz1594/SOC-Automation-Home-Lab/tree/main) 
 
 ## 🛠️ Tools & Technologies
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
