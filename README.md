@@ -8,7 +8,9 @@ Currently applying my technical and organizational skills as a Project Manager a
 ## 👨‍💻 Projects
 
 Project 1 - [SOC Automation Home Lab](https://github.com/luisrdiaz1594/SOC-Automation-Home-Lab/tree/main)
+
 Project 2 - [Basic Home Lab](https://github.com/luisrdiaz1594/Basic-Home-Lab)
+
 Project 3 - [Operation Suspicious File Transfer Investigation](https://github.com/luisrdiaz1594/Operation-Suspicious-File-Transfer-Investigation)
 
 ## 🛠️ Tools & Technologies
