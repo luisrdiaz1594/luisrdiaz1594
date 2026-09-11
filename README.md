@@ -13,6 +13,8 @@ Project 2 - [Basic Home Lab](https://github.com/luisrdiaz1594/Basic-Home-Lab)
 
 Project 3 - [Operation Suspicious File Transfer Investigation](https://github.com/luisrdiaz1594/Operation-Suspicious-File-Transfer-Investigation)
 
+Project 4 - [Managing Microsoft Entra ID Lab](https://github.com/luisrdiaz1594/Managing-Microsoft-Entra-ID-Lab/tree/main)
+
 ## 🛠️ Tools & Technologies
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
