@@ -15,6 +15,8 @@ Project 3 - [Operation Suspicious File Transfer Investigation](https://github.co
 
 Project 4 - [Managing Microsoft Entra ID Lab](https://github.com/luisrdiaz1594/Managing-Microsoft-Entra-ID-Lab/tree/main)
 
+Project 5 - [Manage Subscriptions and RBAC](https://github.com/luisrdiaz1594/Manage-Subscriptions-and-RBAC/tree/main)
+
 ## 🛠️ Tools & Technologies
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
