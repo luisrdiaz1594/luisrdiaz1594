@@ -17,6 +17,8 @@ Project 4 - [Managing Microsoft Entra ID Lab](https://github.com/luisrdiaz1594/M
 
 Project 5 - [Manage Subscriptions and RBAC](https://github.com/luisrdiaz1594/Manage-Subscriptions-and-RBAC/tree/main)
 
+Project 6 - [Manage Azure Resources By Using Azure Resource Manager Template](https://github.com/luisrdiaz1594/Manage-azure-resources-by-using-azure-resource-manager-template/tree/main)
+
 ## 🛠️ Tools & Technologies
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
