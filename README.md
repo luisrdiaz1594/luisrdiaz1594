@@ -18,6 +18,8 @@ Project 4 - [Managing Microsoft Entra ID Lab](https://github.com/luisrdiaz1594/M
 Project 5 - [Manage Subscriptions and RBAC](https://github.com/luisrdiaz1594/Manage-Subscriptions-and-RBAC/tree/main)
  
 Project 6 - [Manage Azure Resources By Using Azure Resource Manager Template](https://github.com/luisrdiaz1594/Manage-azure-resources-by-using-azure-resource-manager-template/tree/main)
+
+Project 7 - [Implement Virtual Networking](https://github.com/luisrdiaz1594/Implement-Virtual-Networking/tree/main)
  
 ## 🛠️ Tools & Technologies
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTUuNDgzIDIxLjNIMjRMMTQuMDI1IDQuMDEzbC0zLjAzOCA4LjM0NyA1LjgzNiA2LjkzOEw1LjQ4MyAyMS4zek0xMy4yMyAyLjdMNi4xMDUgOC42NzcgMCAxOS4yNTNoNS41MDV2LjAxNEwxMy4yMyAyLjd6Ii8%2BPC9zdmc%2B)
