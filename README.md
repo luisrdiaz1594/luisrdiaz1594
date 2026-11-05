@@ -1,5 +1,5 @@
 # Hi, I'm Luis Diaz 👋
-### Cloud & Security Engineering | Azure, Identity & Access Management | CompTIA Security+ | Microsoft AZ-104
+### Cloud & Security Engineering | Azure, Identity & Access Management | CompTIA Security+ | Microsoft AZ-900 | Microsoft AZ-104
  
 I'm a cloud and security professional with a B.S. in Cyber Security from Mercy College and an A.S. in Mathematics & Science from SUNY Orange County Community College. I hold CompTIA Security+ and the Microsoft Certified: Azure Administrator Associate (AZ-104), and I build hands-on, documented labs in Azure infrastructure deployment, Microsoft Entra ID administration, and role-based access control using ARM templates, Bicep, Azure CLI, and PowerShell. I also work in virtualized home labs with Windows Server, Active Directory, Linux, networking, Splunk, and Sysmon for security monitoring and incident investigation.
  
@@ -37,3 +37,4 @@ Project 6 - [Manage Azure Resources By Using Azure Resource Manager Template](ht
 - Technical Documentation & Cross-Functional Delivery
 ## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-diaz-120685135/)
+ 
