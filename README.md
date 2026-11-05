@@ -1,24 +1,24 @@
 # Hi, I'm Luis Diaz 👋
-### Cybersecurity Professional | Threat Detection & Incident Response | CompTIA Security+
-
-I'm a cybersecurity professional with a B.S. in Cybersecurity from Mercy College and an A.S. in Mathematics & Science from SUNY Orange County Community College. I bring hands-on experience with threat detection, digital forensics, and security tools including Wireshark, Autopsy, and AccessData, along with proficiency in Python, SQL, and network security fundamentals.
-
-Currently applying my technical and organizational skills as a Project Manager at A&R Concrete Products while actively pursuing opportunities in SOC operations and cybersecurity defense.
-
+### Cloud & Security Engineering | Azure, Identity & Access Management | CompTIA Security+ | Microsoft AZ-104
+ 
+I'm a cloud and security professional with a B.S. in Cyber Security from Mercy College and an A.S. in Mathematics & Science from SUNY Orange County Community College. I hold CompTIA Security+ and the Microsoft Certified: Azure Administrator Associate (AZ-104), and I build hands-on, documented labs in Azure infrastructure deployment, Microsoft Entra ID administration, and role-based access control using ARM templates, Bicep, Azure CLI, and PowerShell. I also work in virtualized home labs with Windows Server, Active Directory, Linux, networking, Splunk, and Sysmon for security monitoring and incident investigation.
+ 
+Currently applying my technical documentation, access management, and project coordination skills as a Technical Project Manager at A&R Concrete Products while actively pursuing cloud engineering and cybersecurity roles.
+ 
 ## 👨‍💻 Projects
-
+ 
 Project 1 - [SOC Automation Home Lab](https://github.com/luisrdiaz1594/SOC-Automation-Home-Lab/tree/main)
-
+ 
 Project 2 - [Basic Home Lab](https://github.com/luisrdiaz1594/Basic-Home-Lab)
-
+ 
 Project 3 - [Operation Suspicious File Transfer Investigation](https://github.com/luisrdiaz1594/Operation-Suspicious-File-Transfer-Investigation)
-
+ 
 Project 4 - [Managing Microsoft Entra ID Lab](https://github.com/luisrdiaz1594/Managing-Microsoft-Entra-ID-Lab/tree/main)
-
+ 
 Project 5 - [Manage Subscriptions and RBAC](https://github.com/luisrdiaz1594/Manage-Subscriptions-and-RBAC/tree/main)
-
+ 
 Project 6 - [Manage Azure Resources By Using Azure Resource Manager Template](https://github.com/luisrdiaz1594/Manage-azure-resources-by-using-azure-resource-manager-template/tree/main)
-
+ 
 ## 🛠️ Tools & Technologies
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,14 +26,13 @@ Project 6 - [Manage Azure Resources By Using Azure Resource Manager Template](ht
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-
+ 
 ## 📚 Focus Areas
-- Threat Detection & Incident Response
-- SOC Operations
-- Digital Forensics & Investigations
-- Network Security
-- Insider Threat Analysis
-- GRC & Compliance Frameworks
-
+- Microsoft Azure Administration & Cloud Infrastructure
+- Infrastructure as Code (ARM Templates, Bicep, Azure CLI, PowerShell)
+- Identity & Access Management (Microsoft Entra ID, Azure RBAC, Least Privilege)
+- Security Monitoring & Incident Investigation (Splunk, Sysmon, MITRE ATT&CK)
+- Windows Server, Active Directory & Networking
+- Technical Documentation & Cross-Functional Delivery
 ## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-diaz-120685135/)
